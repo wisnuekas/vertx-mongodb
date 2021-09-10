@@ -4,6 +4,10 @@ image:https://img.shields.io/badge/vert.x-4.1.3-purple.svg[link="https://vertx.i
 
 This application was generated using http://start.vertx.io
 
+== Api spec
+
+Please read README.md
+
 == Building
 
 To launch your tests:
